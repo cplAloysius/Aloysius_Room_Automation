@@ -43,7 +43,7 @@ I replaced the mechanical light switch in my room with a [smart light switch](ht
 
 I first used an RF receiver to read the signals of the remote to learn the code for turning the light switch on and off.
 
-Next, I soldered an RF transmitter onto the ESP8266 so that it can mimic those signals and control the light switch throgh the webserver
+Next, I soldered an RF transmitter onto the ESP8266 so that it can mimic those signals and control the light switch through the webserver
 
 <img src="https://github.com/cplAloysius/Aloysius_Room_Automation/blob/main/images/f147612b-6699-4d05-a9d3-0bbe03ce8bdc.jpg" width="300">
 
