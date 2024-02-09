@@ -2,8 +2,8 @@
 In this repo, I log my experience attempting to automate various appliances in my room with:
 - [ESP8266 webserver to send commands remotely](#esp8266-webserver)
 - [433MHz RF transmitter to communicate with smart light switch](#lights)
-- [Arduino nano with 2 channel relay and 433Mhz RF receiver fitted into a KDK standing fan](#fan)
-- [Arduino nano with 2 channel relay and 433Mhz RF receiver controlling a linear actuator to operate a sliding door](#door)
+- [Arduino Nano with 2 channel relay and 433Mhz RF receiver fitted into a KDK standing fan](#fan)
+- [Arduino Nano with 2 channel relay and 433Mhz RF receiver controlling a linear actuator to operate a sliding door](#door)
 - [IR transmitter to communicate with Mitsubishi air conditioner](#air-conditioner)
 - [iOS Application with widget to control everything from my phone](#ios-application)
 
