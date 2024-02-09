@@ -94,7 +94,7 @@ Controlling the linear actuator is similar to that of the fan where an Arduino N
 
 ## Air Conditioner
 
-The Misubishi Electric Air Conditioner is controlled by an infrared remote. The signal from the remote can be imitated by an IR transmitter. An NPN MOSFET is used as a switch to drive the IR led. 
+The Misubishi Electric Air Conditioner is controlled by an infrared(IR) remote. The signal from the remote can be imitated by an IR transmitter. An NPN MOSFET is used as a switch to drive the IR led. 
 
 The images below shows the final form of the ESP8266 board ft. Darth Maul and Astro Boy.
 
