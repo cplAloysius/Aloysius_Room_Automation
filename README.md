@@ -31,6 +31,10 @@ void handleArg() {
 }
 ```
 
+Using the [UniversalTelegramBot library](https://www.arduino.cc/reference/en/libraries/universaltelegrambot/), I created a Telegram bot that sends a message to my Telegram account every time the server restarts, so I know that it is active.
+
+<img src="https://github.com/cplAloysius/Aloysius_Room_Automation/blob/main/images/IMG_3998.jpg" width="400">
+
 ## Lights
 
 I replaced the mechanical light switch in my room with a [smart light switch](https://www.aliexpress.com/i/1005004284626383.html) which is controlled via an RF remote. 
