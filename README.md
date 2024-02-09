@@ -104,7 +104,7 @@ I initially tried to decode the signals from the aircon remote using an infrared
 
 ## iOS Application
 
-Now that the hardware set up, I needed an app to interact with my web server to control all the appliances from my phone. Since I use an iPhone, I decided to create the app on Xcode with Swift.
+Now that the hardware was set up, I needed an app to interact with my web server to control all the appliances from my phone. Since I use an iPhone, I decided to create the app on Xcode with Swift.
 
 I kept the design of the app basic, similar to the iOS settings app. I used switches for the lights, fan and air conditioner and sliders for the fan and door to handle their different states.
 
