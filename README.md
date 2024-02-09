@@ -70,7 +70,7 @@ To communicate with the [standing fan](https://www.kdk.sg/shop/general-fan/stand
 
 The fan had buttons to select different speeds, so I desoldered the wires to those buttons and wired them accordingly into the 2 channel relay for the 2 different speeds.
 
-When the web server receives a request to turn the fan on to speed 1, it sends an RF signal to the arduino. The arduino turns the appropriate relay into the closed position which turns the fan on.
+When the web server receives a request to turn the fan on to speed 1, it sends an RF signal to the Arduino. The Arduino turns the appropriate relay into the closed position which turns the fan on.
 
 This was a hard package to fit into the fan's body as there was little space to work with and the Arduino Nano needed a power plug for power. I had to drill 2 holes into the side of the fan body to route the power cable around which looks pretty cool in my opinion. 
 <br/>
