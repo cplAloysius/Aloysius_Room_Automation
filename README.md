@@ -39,7 +39,7 @@ Using the [UniversalTelegramBot library](https://www.arduino.cc/reference/en/lib
 
 ## Lights
 
-I replaced the mechanical light switch in my room with a [smart light switch](https://www.aliexpress.com/i/1005004284626383.html) which is controlled via an RF remote. 
+I replaced the mechanical light switch in my room with a [smart light switch](https://www.aliexpress.com/i/1005004284626383.html) which is controlled via a radio frequency(RF) remote. 
 
 I first used an RF receiver to read the signals of the remote to learn the code for turning the light switch on and off.
 
