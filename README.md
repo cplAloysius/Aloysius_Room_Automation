@@ -68,7 +68,7 @@ To communicate with the [standing fan](https://www.kdk.sg/shop/general-fan/stand
 
 <img src="https://github.com/cplAloysius/Aloysius_Room_Automation/blob/main/images/9c04e48e-e5a8-43cb-91d0-c162031af678.JPG" width="300">
 
-The fan had buttons to select different speeds, so I just desoldered the wires to those buttons and wired them accordingly into the 2 channel relay for 2 different speeds.
+The fan had buttons to select different speeds, so I desoldered the wires to those buttons and wired them accordingly into the 2 channel relay for the 2 different speeds.
 
 When the web server receives a request to turn the fan on to speed 1, it sends an RF signal to the arduino. The arduino turns the appropriate relay into the closed position which turns the fan on.
 
