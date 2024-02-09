@@ -10,4 +10,4 @@ In this repo, I log my experience attempting to automate various appliances in m
 ## ESP8266 Webserver
 This adventure began when I received an ESP8266 board from a friend when I was at his place.
 
-<img src="https://github.com/cplAloysius/Aloysius_Room_Automation/blob/main/6f8f98e0-ea3c-4833-8a9b-41f400491a98.jpg" width="300">
+<img src="https://github.com/cplAloysius/Aloysius_Room_Automation/blob/main/images/6f8f98e0-ea3c-4833-8a9b-41f400491a98.jpg" width="300">
