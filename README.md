@@ -7,7 +7,7 @@ In this repo, I log my experience attempting to automate various appliances in m
 - [IR transmitter to communicate with Mitsubishi air conditioner](#air-conditioner)
 - [iOS Application with widget to control everything from my phone](#ios-application)
 
-Note that the code for this project is in my private repo as it contains sensitive data
+Note that the code for this project is in my private repo as it contains sensitive information
 
 ## ESP8266 Webserver
 
